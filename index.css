@@ -1,0 +1,30 @@
+/* Made By Prathmesh Thorat */
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #F0F0F0;
+  font-family: Times New Roman;
+  color: #364F6B;
+}
+#time{
+  margin: 0;
+  padding: 0;
+  font-size: 50px;
+  text-align: center;
+  font-weight: bold;
+  width: 300px;
+  height: auto;
+  transform: translate(30px,200px);
+}
+#start{
+  background-color: #364F6B;
+  border: 0;
+  border-radius: 30px;
+  font-size: 50px;
+  font-weight: bold;
+  height: 100px;
+  width: 200px;
+  color: #F0F0F0;
+  transform: translate(75px,250px);
+  font-family: Times New Roman;
+}
